@@ -6,13 +6,7 @@ This repository contains a project that leverages machine learning techniques to
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [How It Works](#how-it-works)
-- [Dataset](#dataset)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Ethical Considerations](#ethical-considerations)
-- [License](#license)
+
 
 ## About the Project
 
